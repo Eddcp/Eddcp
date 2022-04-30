@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eduardo
+### Hi there, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!--
 **Eddcp/Eddcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
