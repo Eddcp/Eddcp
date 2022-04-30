@@ -1,9 +1,9 @@
 # Hi there, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+![blade-runner-2049](https://user-images.githubusercontent.com/7611091/166110539-4bd56a7f-5043-47dd-8a08-479cd58f5a8d.gif)
+
 ## Tech Stack
 > These are some of the technologies and tools that I work with
-
-![blade-runner-2049](https://user-images.githubusercontent.com/7611091/166110539-4bd56a7f-5043-47dd-8a08-479cd58f5a8d.gif)
 
 <table>
   <tr>
