@@ -47,8 +47,8 @@
         <p><small>Postgres</small></p>
     </td>
     <td align="center">
-        <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50" />
-        <p><small>MySQL</small></p>
+        <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" />
+        <p><small>Kubernetes</small></p>
     </td>
     <td align="center">
         <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
